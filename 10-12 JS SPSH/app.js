@@ -71,5 +71,6 @@ if (amal === "+") {
     console.log("Noto'g'ri amal kiritildi");
 }
 
+
 console.log(result);
 
