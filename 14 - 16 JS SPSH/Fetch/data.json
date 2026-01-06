@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Madina",
+        "age": 18,
+        "birthday": "12.03.2008",
+        "height": 165,
+        "weight": 52,
+        "address": "Namangan Davlatobod",
+        "phone": "+998901234564"
+    },
+    {
+        "name": "Aziza",
+        "age": 19,
+        "birthday": "05.07.2007",
+        "height": 168,
+        "weight": 55,
+        "address": "Namangan Chorsu",
+        "phone": "+998901234565"
+    },
+    {
+        "name": "Dilnoza",
+        "age": 20,
+        "birthday": "22.11.2005",
+        "height": 170,
+        "weight": 56,
+        "address": "Namangan Yangiobod",
+        "phone": "+998901234566"
+    },
+    {
+        "name": "Zilola",
+        "age": 18,
+        "birthday": "30.01.2008",
+        "height": 162,
+        "weight": 50,
+        "address": "Namangan Chust ko‘chasi",
+        "phone": "+998901234567"
+    },
+    {
+        "name": "Malika",
+        "age": 21,
+        "birthday": "18.06.2004",
+        "height": 172,
+        "weight": 58,
+        "address": "Namangan Bog‘ishamol",
+        "phone": "+998901234568"
+    },
+    {
+        "name": "Sevara",
+        "age": 19,
+        "birthday": "09.09.2006",
+        "height": 167,
+        "weight": 53,
+        "address": "Namangan Chorsu",
+        "phone": "+998901234569"
+    },
+    {
+        "name": "Gulnoza",
+        "age": 20,
+        "birthday": "27.04.2005",
+        "height": 169,
+        "weight": 54,
+        "address": "Namangan Davlatobod",
+        "phone": "+998901234570"
+    },
+    {
+        "name": "Shahlo",
+        "age": 18,
+        "birthday": "15.12.2008",
+        "height": 164,
+        "weight": 51,
+        "address": "Namangan Yangiobod",
+        "phone": "+998901234571"
+    },
+    {
+        "name": "Umida",
+        "age": 22,
+        "birthday": "02.02.2003",
+        "height": 171,
+        "weight": 57,
+        "address": "Namangan Markaz",
+        "phone": "+998901234572"
+    },
+    {
+        "name": "Nodira",
+        "age": 19,
+        "birthday": "11.08.2006",
+        "height": 166,
+        "weight": 52,
+        "address": "Namangan Chorsu",
+        "phone": "+998901234573"
+    }
+]

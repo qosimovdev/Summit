@@ -52,3 +52,11 @@ girls.forEach(item => {
     `
     container.appendChild(div)
 })
+fetch("data.json")
+    .then(res => res.json())
+    .then(data => {
+        console.log(data);
+    })
+    .catch(error => {
+        console.log("Xatolik: ", error.message);
+    })
