@@ -6,11 +6,11 @@
 
 
 // try {
-//     let a = b + 10; // b yo‘q
+//     let a = b + 10;
 //     console.log(a);
 // } catch (error) {
-//     console.log(error.message);
-//     console.log(error.name);
+//     // console.log(error);
+//     // console.log(error.name);
 //     console.log("Xato yuz berdi!");
 // }
 
@@ -19,10 +19,10 @@
 //     let data = JSON.parse('{"name": "Ali"}');
 //     console.log(data);
 // } catch (error) {
-//     console.log(error);
-//     console.log(error.message);
-//     console.log(error.name);
-//     // alert("JSON noto'g'ri!");
+//     // console.log(error);
+//     // console.log(error.message);
+//     // console.log(error.name);
+//     alert("JSON noto'g'ri!");
 // }
 
 
@@ -31,7 +31,8 @@
 //     box.style.color = "red";
 // } catch (e) {
 //     console.log("Element topilmadi!");
-//     console.log(e.message);
+//     // console.log(e.message);
+//     // console.log(e);
 // }
 
 
@@ -58,7 +59,7 @@
 //     checkAge(yosh);
 //     alert("Kirish mumkin")
 // } catch (error) {
-//     alert(error);
+//     alert(error.message);
 // }
 
 
