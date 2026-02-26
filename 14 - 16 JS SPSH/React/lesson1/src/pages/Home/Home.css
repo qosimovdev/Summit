@@ -1,0 +1,17 @@
+.home {
+  padding: 30px;
+  background-color: #20c611;
+  color: #fff;
+  border: 1px solid #ccc;
+}
+.head-text {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #fff;
+}
+.text {
+  font-size: 22px;
+  line-height: 1.5;
+  color: #ccc;
+}
