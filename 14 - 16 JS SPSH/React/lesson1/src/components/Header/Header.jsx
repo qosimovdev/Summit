@@ -4,13 +4,14 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">My App</div>
-      <div className="nav">
+
+      <nav className="nav">
         <ul className="ul">
           <li>About</li>
           <li>Contact</li>
           <li>Services</li>
         </ul>
-      </div>
+      </nav>
     </header>
   );
 }
