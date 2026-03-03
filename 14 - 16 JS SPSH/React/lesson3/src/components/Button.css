@@ -1,0 +1,10 @@
+button {
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  color: bisque;
+  font-size: 18px;
+  border-radius: 15px;
+  font-weight: bold;
+  font-family: "monospace" "sans-serif";
+  cursor: pointer;
+}
