@@ -10,7 +10,7 @@ function App() {
       height: 160,
     },
   ];
-  return <User name="Boltavoy" age={17} address="Chorsu" />;
+  return <User users={users} />;
 }
 
 export default App;
