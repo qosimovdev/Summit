@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.con {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+.con input {
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 12px;
+  border: 2px solid #ccc;
+}
+
+.con button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 12px;
+  border: 2px solid #ccc;
+}
+
+.con input:focus {
+  outline: 4px solid red;
+}
