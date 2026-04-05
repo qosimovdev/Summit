@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.about,
+.contact,
+.home {
+  margin: 0 auto;
+  height: 100vh;
+  background-color: blueviolet;
+  font-size: 42px;
+  color: azure;
+}
