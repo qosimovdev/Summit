@@ -1,5 +1,5 @@
 // const baseURL = "http://localhost:8888/books"
-const baseURL = "https://book-wqrz.onrender.com/books"
+const baseURL = "http://localhost:8888/books"
 
 const productList = document.querySelector(".product-list");
 const openForm = document.querySelector("#openForm");

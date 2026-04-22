@@ -4,7 +4,7 @@ function App() {
   const [allPosts, setAllPosts] = useState([]);
   const fetchUser = async () => {
     try {
-      const res = await api.get("/posts");
+      const res = await api.get("/books");
       setAllPosts(res.data);
       console.log(res.data);
     } catch (error) {
